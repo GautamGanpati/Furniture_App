@@ -8,8 +8,6 @@ import 'product_image.dart';
 
 class Body extends StatelessWidget {
   final Product product;
-
-
   const Body({super.key, 
   required this.product});
 
